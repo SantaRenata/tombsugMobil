@@ -1,7 +1,7 @@
 /*
 * File: Button.js
 * Author: Sánta Renáta Diána
-* Copyright: 2021, Sánta Renáta Diána
+* Copyright: 2023, Sánta Renáta Diána
 * Group: Szoft II N
 * Date: 2023-03-27
 * Github: https://github.com/SantaRenata/
